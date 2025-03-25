@@ -1,3 +1,3 @@
 # Nishanthi-s
 
-##URL:https://github.com/anm12222cs027/Nishanthi-s.git
+##URL: https://anm12222cs027.github.io/Nishanthi-s/
